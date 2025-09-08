@@ -1,1 +1,5 @@
-
+plugins:
+  - id: "git"
+  - id: "workflow-aggregator"
+  - id: "kubernetes"
+  - id: "blueocean"
